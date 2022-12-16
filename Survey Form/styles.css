@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    background: url("https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg");
+    height:100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+h1 {
+  margin-top: 0;
+  border-top: 5rem;
+}
+
+
+.background{
+    background-color: #312782d6;
+
+}
+
+#title, #description {
+    color: #a0a0a0;
+    text-align: center;
+  }
+
+  p {    
+    font-size: 1.125rem;
+  }
+
+  label {
+    display: block;
+    font-size: 1.125rem;
+    margin-bottom: 0.5rem;;
+  }
+
+  form{
+    background-color: #a0a0a0;
+    margin: 0 10vw;
+    padding: 5vh 10%;
+  }
+
+  fieldset{
+    border: 0px;
+  }
+  
+  input, button, select, textarea{
+    margin:0;
+    font-size:inherit;
+    width: 100%;
+
+  }
+
+  input[type="checkbox"]{
+    display: inline;
+    vertical-align: middle;
+
+  }
+  #inline {
+    display: inline;
+    width: unset;
+  margin: 0 0.5em 0 0;
+  vertical-align: middle;
+  }
+
