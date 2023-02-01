@@ -12,4 +12,4 @@ In CSS if I use two classes separated by commas, we are using one and the other.
 - rem is a percentage of the body font-size property
 - the :not pseudoselector can be used to select all selectors but one.
 
-![Image of the site that was built]("nutritionTable.png")
+![Image of the site that was built](nutritionTable.png)
