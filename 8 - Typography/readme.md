@@ -4,7 +4,7 @@
 
 This is the from the Learn Typhography by Building a Nutrition Label course inside (New) Responsive Web Design Certification at FreeCodeCamp.org
 
-<img src="nutritionTable.png" alt="Image of the site that was built" width="10%"/>
+<img src="nutritionTable.png" alt="Image of the site that was built" width="20%"/>
 
 ## Lessons learned
 - fonts like Open Sans need to be imported in a link (<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,800" rel="stylesheet">)
